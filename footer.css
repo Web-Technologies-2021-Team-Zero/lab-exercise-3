@@ -1,0 +1,83 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+    
+footer { 
+    background-color: #404041;
+    color: white;
+    padding: 50px;
+}
+
+.footer-content {
+    width: 70%;
+    margin: 0 auto;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover {
+    opacity: 0.5;
+}
+
+footer h1 {
+    color: #a0a0a0;
+    line-height: 1.3;
+}
+
+.first-table, .second-table {
+    width: 1000px;
+    
+}
+
+.second-table tr {
+    font-size: 18px;
+}
+
+.subscribe {
+    height: 35px;
+    border: none;
+    width: 200px;
+}
+
+#subscribe-button {
+    background-color: lightgrey;
+    padding: 10.5px;
+    border: none;
+}
+
+.fa {
+    font-size: 24px;
+    color: white;
+    background-color:lightgray;
+    padding: 5px;
+    border: 1px solid lightgray;
+    border-radius: 50%;
+    width: 25px;
+    text-align: center;
+}
+
+.footer-bottom {
+    padding-top: 50px;
+}
+
+#footer-logo {
+    float: left;
+    width: 200px;
+}
+
+.copyrights span {
+    width: 450px;
+    float: left;
+    padding-left: 50px;
+}
+
+.policies {
+    vertical-align: middle;
+}
+
+.copyrights-policies {
+    padding: 100px 0;
+}
