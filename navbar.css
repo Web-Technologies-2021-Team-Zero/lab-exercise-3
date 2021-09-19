@@ -18,7 +18,7 @@ ol,ul {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    max-width: 720px;
+    max-width: 900px;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -28,7 +28,7 @@ ol,ul {
 
 #mainMenu li {
 	display: flex;
-	width: 100px;
+	width: 200px;
 	float:left;
 	margin-left:2px;
 	border: none;
